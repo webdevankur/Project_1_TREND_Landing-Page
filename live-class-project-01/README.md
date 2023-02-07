@@ -6,7 +6,7 @@ Project_1_Trend_Landing_Page
 
 ## Project Link👇
 
-bright-scone-51826b.netlify.app
+[bright-scone-51826b.netlify.app](bright-scone-51826b.netlify.app)
 
 ## Project Thumbnail👇
 
